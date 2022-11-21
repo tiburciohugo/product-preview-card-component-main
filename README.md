@@ -20,8 +20,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/)
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-Jhtf-AQLG5)
+- Live Site URL: [Add live site URL here](https://tiburciohugo.github.io/product-preview-card-component-main/)
 
 ## My process
 
